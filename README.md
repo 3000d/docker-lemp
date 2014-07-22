@@ -6,6 +6,10 @@ _LEMP stack for docker_
 * Some inspiration and some scripts are from Ryan Seto's <ryanseto@yak.net> docker mariadb build : https://github.com/Painted-Fox/docker-mariadb/
 * Image build on top of phusion's baseimage-docker https://github.com/phusion/baseimage-docker 
 
+BEWARE
+-
+* Build with unsecure-key, option should be removed from Dockerfile in production env
+
 CONFIGURATIONS
 -
 * virtualhost.conf => /etc/nginx/sites-enabled/default
