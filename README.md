@@ -1,5 +1,7 @@
-docker-lemp LEMP stack for docker
+docker-lemp
 =
+
+_LEMP stack for docker_
 
 * Some inspiration and some scripts are from Ryan Seto's <ryanseto@yak.net> docker mariadb build : https://github.com/Painted-Fox/docker-mariadb/
 * Image build on top of phusion's baseimage-docker https://github.com/phusion/baseimage-docker 
